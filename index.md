@@ -1,2 +1,4 @@
-**글 목록**
-- [Bitcoin 논문 정리](bitcoin.md)
+---
+layout: home
+title: "글 목록"
+---
